@@ -239,3 +239,6 @@ This repository serves as the official landing page for ZoneAlarm Free Firewall.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ZoneAlarm Free Firewall today!**
+
+---
+**Last updated:** 2026-09-12 00:50:49 UTC
