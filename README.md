@@ -241,4 +241,4 @@ This repository serves as the official landing page for ZoneAlarm Free Firewall.
 **Get the most recent version of ZoneAlarm Free Firewall today!**
 
 ---
-**Last updated:** 2026-09-13 07:55:55 UTC
+**Last updated:** 2026-09-13 13:05:32 UTC
